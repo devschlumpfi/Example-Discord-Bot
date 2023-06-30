@@ -8,7 +8,9 @@ GatewayIntentBits.GuildMembers,
 
 client.on('ready', () => {
 console.log('[+] Discord Bot is Online! '+client.user.username)
-client.user.setActivity('TEST', { type: 'PLAYING' });
+//client.user.setActivity('TEST', { type: 'PLAYING' });
+client.user.setActivity('TEST', { type: 'STREAMING', url: 'YOUR_STREAM_URL' });
+
 
 })
 
