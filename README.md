@@ -7,13 +7,13 @@ For support, Send a FA to invaildschlumpfi and they will looking.👀
 Clone the project
 
 ```bash
-  git clone https://
+  git clone https://github.com/devleonx74/Example-Discord-Bot/
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Example-Discord-Bot
 ```
 
 Install dependencies
